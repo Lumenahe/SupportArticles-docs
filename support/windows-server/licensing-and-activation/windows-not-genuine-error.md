@@ -137,8 +137,6 @@ If there are no GPOs in place, the default registry permissions have been change
 
 5. Click **NETWORK SERVICE**, and then select the **Full Control** and **Read** permissions.
 
-    ![lick NETWORK SERVICE](./media/windows-not-genuine-error/select-full-control-read-permissions.png)
-
 6. Click **OK**.
 7. Restart the computer.
 8. After you restart the computer, you may have to activate the copy of Windows. Complete the activation.
